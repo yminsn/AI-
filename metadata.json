@@ -1,0 +1,6 @@
+{
+  "name": "대학 신입생 입학원서 접수 및 관리 시스템",
+  "description": "2026학년도 대학교 신입생 입학원서 작성, 실시간 데이터 저장, 수험생 접수 대장 및 수험표 관리 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
